@@ -1,4 +1,4 @@
-FROM alpine:3.17.3
+FROM alpine:3.21.0
 
 LABEL maintainer="nao <naost3rn@gmail.com"
 
