@@ -1,6 +1,6 @@
 FROM alpine:3.21.0
 
-LABEL maintainer="nao <naost3rn@gmail.com"
+LABEL maintainer="nao <naost3rn@gmail.com>"
 
 RUN set -x && \
     apk update && \
